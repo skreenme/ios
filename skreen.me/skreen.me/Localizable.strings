@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  skreen.me
+
+  Created by Varun Singh on 19/11/13.
+  Copyright (c) 2013 GSLab. All rights reserved.
+*/
+
+"SKREEN_ME_SUCCESS_TEXT" = "Your application's screen is now being shared. Please invite others to view it.";
+"INVITE" = "Invite";
+"SKREEN_ME" = "skreen.me";
+"ID" = "id";
+"SHARE_SKREEN_ME_SUBJECT" = "skreen.me: View my application's screen";
+"SHARE_SKREEN_ME_TEXT" = "View my application's screen at";
+"SHARE_SKREEN_ME_TEXT_IPHONE" = "View my iPhone app screen at";
+"SHARE_SKREEN_ME_TEXT_IPAD" = "View my iPad app screen at";
+"SHARE_SKREEN_ME_TEXT_IPOD" = "View my iPad app screen at";
+"CANCEL" = "Cancel";
